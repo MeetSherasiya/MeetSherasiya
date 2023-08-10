@@ -3,7 +3,7 @@
 <div align="center">
 <a href="#"><img width="auto" src="https://github.com/MeetSherasiya/MeetSherasiya/assets/114209655/1b396333-8c6e-4e37-9905-8dcfac8c9eaf" height="400px"/></a>
 
-Aspiring Django Developer | Passionate about web development | Ready to learn and contribute
+🚀 Aspiring Django Developer 🐍 | 🌐 Passionate about Web Development 💻 | 📚 Ready to Learn and Contribute 🤝
 
 </div>
 
