@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my Django skills through personal projects.
 - 🌱 I’m eager to learn more about best practices, design patterns, and improving code efficiency.
 - 📫 How to reach me:
-  - <a href="www.linkedin.com/in/meet-sherasiya-b477bb1b8/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  - <a href="https://www.linkedin.com/in/meet-sherasiya-b477bb1b8/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   -  <a href="mailto:meetsherasiya2512@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving logic puzzles and playing e-sports games and travelling with bikes in my free time. 🚴‍♂️
