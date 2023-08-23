@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving logic puzzles and playing e-sports games and travelling with bikes in my free time. 🚴‍♂️
 
-- ![](https://komarev.com/ghpvc/?username=MeetSherasiya&color=green&style=flat-square)
+- ![](https://komarev.com/ghpvc/?username=MeetSherasiya&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 ## Tech Stack 🛠️
 
