@@ -33,11 +33,11 @@ Here are some technologies I'm familiar with:
 
 ## Projects 🚀
 
-### 🧺 Laundry Managment System
+### 🛍️ Online Marketplace Platform
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Laundry Management System is a comprehensive software solution designed to streamline and automate laundry and dry-cleaning businesses. It offers an efficient way to manage the various aspects of laundry operations, from order tracking and inventory management to customer communication and billing. Whether it's a small neighborhood laundromat or a large commercial laundry service, this system simplifies the complexities of laundry management, enhancing customer service and operational efficiency.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Online Marketplace Platform is a sophisticated web-based solution that facilitates the buying and selling of various products and services in a virtual marketplace. With a user-friendly interface and robust features, the platform provides an avenue for sellers to showcase their offerings and buyers to explore a wide range of products from different categories. This platform serves as a bridge connecting sellers and buyers, enhancing convenience, choice, and accessibility in the online shopping experience.
 
-GitHub Repository: [🌟 Link](https://github.com/MeetSherasiya/laundry_managment_system.git)
+GitHub Repository: [🌐 Link](https://github.com/MeetSherasiya/makemine_software.git)
 
 ---
 
@@ -49,11 +49,11 @@ GitHub Repository: [🚀 Link](https://github.com/MeetSherasiya/Exam_question_bl
 
 ---
 
-### 🛍️ Online Marketplace Platform
+### 🧺 Laundry Managment System
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Online Marketplace Platform is a sophisticated web-based solution that facilitates the buying and selling of various products and services in a virtual marketplace. With a user-friendly interface and robust features, the platform provides an avenue for sellers to showcase their offerings and buyers to explore a wide range of products from different categories. This platform serves as a bridge connecting sellers and buyers, enhancing convenience, choice, and accessibility in the online shopping experience.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Laundry Management System is a comprehensive software solution designed to streamline and automate laundry and dry-cleaning businesses. It offers an efficient way to manage the various aspects of laundry operations, from order tracking and inventory management to customer communication and billing. Whether it's a small neighborhood laundromat or a large commercial laundry service, this system simplifies the complexities of laundry management, enhancing customer service and operational efficiency.
 
-GitHub Repository: [🌐 Link](https://github.com/MeetSherasiya/makemine_software.git)
+GitHub Repository: [🌟 Link](https://github.com/MeetSherasiya/laundry_managment_system.git)
 
 ---
 
